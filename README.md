@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Maxencelaf
-- 👀 I’m interested in ... Web and app developpment
-- 🌱 I’m currently learning ... WPF, xaml and c#
+- 👀 I’m interested in ... App development and Programming MCU
+- 🌱 I’m currently learning ... WPF, xaml, C#, C
 - 💞️ I’m looking to collaborate on ... WPF Projects  
 - 📫 How to reach me ... Email (Maxencelaf@hotmail.com)
 
